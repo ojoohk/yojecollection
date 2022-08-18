@@ -1,1 +1,1 @@
-# yojecollection
+# 여제등록 프로젝트
